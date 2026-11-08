@@ -1,6 +1,6 @@
 ## LedgerDirect
 
-Accept crypto and stablecoin payments in your shop — directly on the XRP Ledger and XAHAU,
+Accept crypto and stablecoin payments in your shop — directly on the XRP Ledger and Xahau,
 non-custodial, without a payment intermediary.
 
 ### Shop plugins
